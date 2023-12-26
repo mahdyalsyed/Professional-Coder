@@ -57,6 +57,12 @@
 }
 
 @media (max-width: 768px) {
+    .resume .content-section {
+        display: block;
+    }
+    resume .heading h1 {
+        font-size: 35px;
+    }
     .Contact .d_flex {
         flex-direction: column;
     }
@@ -64,5 +70,11 @@
     .Contact .right {
         width: 100%;
         margin-top: 50px;
+    }
+    .f_flex {
+        display: block;
+    }
+    .row {
+        width: 100%;
     }
 }

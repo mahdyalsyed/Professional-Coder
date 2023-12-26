@@ -67,6 +67,10 @@ article.nextSlide {
 }
 /*-----Testimonial slide-----------*/
 @media (max-width: 768px) {
+    .heading h1 {
+        font-size: 57px;
+        color: #3c3e41;
+    }
     article {
         flex-direction: column;
         padding: 20px;
